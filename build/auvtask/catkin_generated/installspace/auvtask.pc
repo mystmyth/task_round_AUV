@@ -1,0 +1,8 @@
+prefix=/home/lavish/catkin_ws/install
+
+Name: auvtask
+Description: Description of auvtask
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lavish/catkin_ws/install/lib 
+Requires: 

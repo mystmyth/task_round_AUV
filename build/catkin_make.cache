@@ -1,0 +1,2 @@
+actionlib_tutorials:auv_task:beginner_tutorials:task_2
+-DCATKIN_DEVEL_PREFIX=/home/lavish/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lavish/catkin_ws/install -G Unix Makefiles
